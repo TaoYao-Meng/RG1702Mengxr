@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Mengxr">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mengxr</output-path>
+    <root id="archive" name="Mengxr.war">
+      <element id="javaee-facet-resources" facet="RG1702Mengxr/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="RG1702Mengxr" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
